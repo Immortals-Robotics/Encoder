@@ -28,3 +28,4 @@ fp-info-cache
 # Custom
 encoder-backups
 *.kicad_prl
+output
