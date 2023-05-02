@@ -1092,6 +1092,9 @@
     (stroke (width 0.0127) (type solid)) (layer "User.1") (tstamp b2a4753c-e0d6-422a-a4cf-8bea8d51f9a2))
   (gr_line (start 145.2511 108.87703) (end 151.7511 108.87703)
     (stroke (width 0.0127) (type solid)) (layer "User.1") (tstamp cadeba26-a24c-4ab6-a33e-2d9fc1031478))
+  (gr_text "V.2023.0.2" (at 151.96175 104.92352) (layer "B.SilkS") (tstamp d5785d4a-0722-413f-abfd-d2b923809757)
+    (effects (font (size 1.5 1.5) (thickness 0.3) bold) (justify left bottom mirror))
+  )
 
   (segment (start 149.08675 98.32352) (end 149.08675 96.84852) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0008ce37-7df8-44ea-8eeb-eeae6b6906e4))
   (segment (start 147.84375 101.06152) (end 147.84375 100.11052) (width 0.5) (layer "F.Cu") (net 1) (tstamp 2f6ec34f-c87f-44ae-ad83-175f01337792))
